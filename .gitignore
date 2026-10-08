@@ -1,0 +1,4 @@
+.build/
+Captures/
+PageCapture.app/
+tests/output/
