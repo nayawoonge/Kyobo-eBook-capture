@@ -2,3 +2,7 @@
 Captures/
 PageCapture.app/
 tests/output/
+
+
+#OS
+.DS_Store
